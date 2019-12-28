@@ -1,15 +1,15 @@
 ## Sorts
-  * [Bubble Sort]()
+  * [Bubble Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/bubbleSort.dart) :heavy_check_mark:
   * [Insert Sort]()
   * [Quick Sort]()
   * [Select Sort]()
   * [Shell Sort]()
-  
+
 ## Search
   * [Binary Search]()
   * [Jump Search]()
   * [Linear Search]()
-  
+
 ## Maths
   * [abs]()
   * [abs_max]()
@@ -27,4 +27,4 @@
 ## Other
  * [Euclidean algorithm]()
  * [Tower Of Hanoi]()
-  
+
