@@ -7,7 +7,14 @@
 
 These implementations are for learning purposes. They may be less efficient than the implementations in the Dart standard library.
 
+## Setup and run tests
+
+    $ cd Dart
+    $ pub get
+    $ pub run test
+
 ## List of Algorithms
+
 See our [directory](https://github.com/bernardobrezende/Dart/blob/master/DIRECTORY.md)
 
 ## Community Channel

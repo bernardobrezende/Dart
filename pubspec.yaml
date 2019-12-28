@@ -1,0 +1,3 @@
+name: dart_algorithms
+dependencies:
+  test: ^1.9.4
