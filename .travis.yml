@@ -1,8 +1,12 @@
 language: dart
+
 dart:
-- "2.7.0"
+  - "2.7.0"
 
-dart_task:
-  - test: --platform vm
+script:
+  - pub get
+  - pub run test
 
-- dartanalyzer: --fatal-warnings --fatal-lints lib test
+cache:
+  directories:
+    - "$HOME/.pub-cache"
