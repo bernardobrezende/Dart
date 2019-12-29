@@ -1,6 +1,6 @@
 ## Sorts
   * [Bubble Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/bubbleSort.dart) :heavy_check_mark:
-  * [Insert Sort]()
+  * [Insertion Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/insertionSort.dart) :heavy_check_mark:
   * [Quick Sort]()
   * [Select Sort]()
   * [Shell Sort]()
