@@ -2,7 +2,7 @@
   * [Bubble Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/bubbleSort.dart) :heavy_check_mark:
   * [Insertion Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/insertionSort.dart) :heavy_check_mark:
   * [Quick Sort]()
-  * [Select Sort]()
+  * [Selection Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/selectionSort.dart) :heavy_check_mark:
   * [Shell Sort]()
 
 ## Search
