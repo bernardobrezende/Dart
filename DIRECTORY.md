@@ -3,7 +3,7 @@
   * [Insertion Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/insertionSort.dart) :heavy_check_mark:
   * [Quick Sort]()
   * [Selection Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/selectionSort.dart) :heavy_check_mark:
-  * [Shell Sort]()
+  * [Shell Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/shellSort.dart) :heavy_check_mark:
 
 ## Search
   * [Binary Search]()
