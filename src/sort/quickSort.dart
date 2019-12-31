@@ -1,6 +1,6 @@
 import 'package:meta/meta.dart';
 
-List<int> sort({ @required List<int> numbers }) {
+List<num> sort({ @required List<num> numbers }) {
   doSort(numbers, start, end) {
     if (numbers.length <= 1) return numbers;
     num pivot = numbers[(start + end) ~/ 2];
@@ -26,8 +26,4 @@ List<int> sort({ @required List<int> numbers }) {
   };
   doSort(numbers, 0, numbers.length - 1);
   return numbers;
-}
-
-void main() {
-  print(sort(numbers:[ 3, 5, 1, -1, 6, 2, -8 ]));
 }
