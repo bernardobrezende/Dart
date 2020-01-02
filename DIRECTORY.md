@@ -1,7 +1,9 @@
 ## Sorts
   * [Bubble Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/bubbleSort.dart) :heavy_check_mark:
   * [Insertion Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/insertionSort.dart) :heavy_check_mark:
-  * [Quick Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/quickSort.dart) :heavy_check_mark:
+  * Quick Sort
+    * [Imperative](https://github.com/bernardobrezende/Dart/blob/master/src/sort/quickSort.dart) :heavy_check_mark:
+    * [Functional](https://github.com/bernardobrezende/Dart/blob/master/src/sort/quickSortFunctional.dart) :heavy_check_mark:
   * [Selection Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/selectionSort.dart) :heavy_check_mark:
   * [Shell Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/shellSort.dart) :heavy_check_mark:
 
