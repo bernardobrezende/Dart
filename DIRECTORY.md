@@ -8,7 +8,7 @@
   * [Shell Sort](https://github.com/bernardobrezende/Dart/blob/master/src/sort/shellSort.dart) :heavy_check_mark:
 
 ## Search
-  * [Binary Search]()
+  * [Binary Search](https://github.com/bernardobrezende/Dart/blob/master/src/search/binarySearch.dart) :heavy_check_mark:
   * [Jump Search]()
   * [Linear Search]()
 
