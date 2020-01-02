@@ -1,6 +1,6 @@
 import 'package:meta/meta.dart';
 
-List<int> sort({ @required List<int> numbers }) {
+List<num> sort({ @required List<num> numbers }) {
   final swap = (list, idx1, idx2) {
     // xor swap
     list[idx1] ^= list[idx2];
@@ -11,7 +11,7 @@ List<int> sort({ @required List<int> numbers }) {
     var swapped;
     do {
       swapped = false;
-      for (int j = 0; j < numbers.length - 1; j++) {
+      for (num j = 0; j < numbers.length - 1; j++) {
         if (numbers[j] > numbers[j + 1]) {
           swap(numbers, j, j + 1);
           swapped = true;
