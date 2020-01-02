@@ -1,12 +1,7 @@
 import 'package:meta/meta.dart';
+import '../common/swap.dart';
 
 List<num> sort({ @required List<num> numbers }) {
-  final swap = (list, idx1, idx2) {
-    // xor swap
-    list[idx1] ^= list[idx2];
-    list[idx2] ^= list[idx1];
-    list[idx1] ^= list[idx2];
-  };
   final doSort = (numbers) {
     var swapped;
     do {
